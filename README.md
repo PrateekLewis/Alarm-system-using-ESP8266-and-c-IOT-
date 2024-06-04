@@ -12,6 +12,7 @@ Easy to set up and use with the ESP8266 microcontroller.
 Uses MicroPython for scripting.
 
 Components-
+
 ESP8266 microcontroller (e.g., NodeMCU)
 
 Ultrasonic sensor (HC-SR04)
@@ -21,8 +22,7 @@ Jumper wires
 Breadboard
 
 Circuit Diagram
-scss
-Copy code
+
 Ultrasonic Sensor (HC-SR04)  | ESP8266 (NodeMCU)
 ---------------------------- | -----------------
 VCC                          | 3V3
